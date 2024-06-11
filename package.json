@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/olivrrcode/webcrawlerhttp#readme",
   "devDependencies": {
+    "@jest/globals": "^29.7.0",
     "jest": "^29.7.0"
   },
   "dependencies": {
